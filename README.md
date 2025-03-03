@@ -3,8 +3,8 @@ Customer segmentation is a powerful technique used by businesses to categorize t
 
 Project Overview
 This project involves two key files:
-1️⃣ Mall_Customer.csv – A dataset containing customer attributes such as age, income, and spending score.
-2️⃣ Customer_Segmentation.ipynb – A Jupyter Notebook implementing clustering techniques to segment customers.
+1️. Mall_Customer.csv – A dataset containing customer attributes such as age, income, and spending score.
+2️. Customer_Segmentation.ipynb – A Jupyter Notebook implementing clustering techniques to segment customers.
 
 The project not only focuses on identifying customer cohorts but also includes business strategies to effectively target different clusters.
 
